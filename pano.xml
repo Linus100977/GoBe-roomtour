@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22707" appversion="8.0.7" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="202.20" author="" capturedatetime="2026-09-09T11:27:57" comment="" copyright="" customnodeid="" datetime="09.09.26 11:27" description="&lt;strong>Lounge&lt;/strong>&lt;br>Bequeme Möbel von Interstuhl laden zu entspannten Gesprächen, kleinen Pausen und zum Arbeiten abseits des Schreibtischs ein." heading="0" hideinlist="0" info="" latitude="51.15730556" longitude="14.99130556" nodeid="node1" source="" tags="keine_beschreibung|rauminfo|studio" title="Lounge und Theke"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="120" pan="-42.892" projection="4" tilt="12.7503"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.64496" id="Point01" pan="-36.72" skinid="ht_node" target="-26.5/-3.6/100.0" tilt="-22.37" title="Theke – Übergang zur Lounge" url="{node2}"/>
+      <hotspot description="" id="Point03" pan="55.68" skinid="ht_node" target="-64.4/2.4/100.0" tilt="-11.66" title="Kaffeemaschine und Partnerwand" url="{node4}"/>
+      <hotspot description="Die gemütliche Lounge ist mit hochwertigen Möbeln unseres Partners Interstuhl ausgestattet." id="Point02" pan="-102" skinid="ht_info" target="" tilt="-9.65" title="Unsere Lounge" url=""/>
+      <hotspot description="Unsere Partner&#xa;&#xa;Ein guter Space lebt von guten Partnern.&#xa;Hier seht ihr eine Auswahl der Unternehmen und Organisationen, mit denen wir zusammenarbeiten. Manche bringen Know-how mit, andere Technik, Ausstattung oder spannende Projekte. Was sie verbindet: Gemeinsam machen wir Dinge möglich, die allein so nicht entstehen würden.Unsere Partner&#xa;&#xa;Ein guter Space lebt von guten Partnern.&#xa;&#xa;Hier seht ihr eine Auswahl der Unternehmen und Organisationen, mit denen wir zusammenarbeiten. Manche bringen Know-how mit, andere Technik, Ausstattung oder spannende Projekte. Was sie verbindet: Gemeinsam machen wir Dinge möglich, die allein so nicht entstehen würden." id="Info_partner" pan="28.29" skinid="ht_info" target="" tilt="9.3" title="Unsere Partner" url=""/>
+      <hotspot description="" id="Point04" pan="-102.42" skinid="ht_node" target="-170.8/-3.6/100.0" tilt="-16.15" title="Lounge – Framery Silent Box" url="{node15}"/>
+      <hotspot description="Kaffeepause&#xa;&#xa;Manche guten Ideen brauchen erstmal einen Kaffee. &#xa;Deshalb gehört die Kaffeemaschine bei uns fast genauso zur Grundausstattung wie WLAN und Laptop. Kaffee holen, kurz abschalten, jemanden treffen – und nicht selten entsteht genau hier das nächste gute Gespräch." id="Point05" pan="55" skinid="ht_info" target="" tilt="-0.31" title="" url=""/>
+      <hotspot description="Erfrischungen&#xa;&#xa;Kaffee ist nicht alles.&#xa;Wer zwischendurch etwas Kaltes braucht, wird hier fündig. Limo, Saft und verschiedene Erfrischungen stehen bereit.&#xa;Bedienen ausdrücklich erwünscht." id="Point06" pan="-28.85" skinid="ht_info" target="" tilt="6.36" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="202.20" author="" capturedatetime="2026-09-09T11:26:44" comment="" copyright="" customnodeid="" datetime="09.09.26 11:26" description="" heading="0" hideinlist="0" info="" latitude="51.15733333" longitude="14.99133333" nodeid="node2" source="" tags="studio" title="Theke – Übergang zur Lounge"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.64496" id="Point01" pan="165.48" skinid="ht_node" target="134.3/-1.0/120.0" tilt="-22.03" title="Lounge und Theke" url="{node1}"/>
+      <hotspot description="" distance="3.64496" id="Point02" pan="77.26" skinid="ht_node" target="-146.7/-1.7/100.0" tilt="-19.03" title="Theke – Zugang zur Eventküche" url="{node3}"/>
+      <hotspot description="" id="Point04" pan="-104.76" skinid="ht_node" target="54.6/-6.5/100.0" tilt="-30.13" title="Lounge – Übersicht" url="{node14}"/>
+      <hotspot description="Unsere Partner&#xa;&#xa;Ein guter Space lebt von guten Partnern.&#xa;Hier seht ihr eine Auswahl der Unternehmen und Organisationen, mit denen wir zusammenarbeiten. Manche bringen Know-how mit, andere Technik, Ausstattung oder spannende Projekte. Was sie verbindet: Gemeinsam machen wir Dinge möglich, die allein so nicht entstehen würden." id="Point03" pan="97.36" skinid="ht_info" target="" tilt="10.23" title="" url=""/>
+      <hotspot description="Kaffeepause&#xa;&#xa;Manche guten Ideen brauchen erstmal einen Kaffee. &#xa;Deshalb gehört die Kaffeemaschine bei uns fast genauso zur Grundausstattung wie WLAN und Laptop. Kaffee holen, kurz abschalten, jemanden treffen – und nicht selten entsteht genau hier das nächste gute Gespräch." id="Point05" pan="123.29" skinid="ht_info" target="" tilt="0.39" title="" url=""/>
+      <hotspot description="&#xa;Erfrischungen&#xa;&#xa;Kaffee ist nicht alles.&#xa;Wer zwischendurch etwas Kaltes braucht, wird hier fündig. Limo, Saft und verschiedene Erfrischungen stehen bereit.&#xa;Bedienen ausdrücklich erwünscht." id="Point06" pan="17.09" skinid="ht_info" target="" tilt="26.68" title="" url=""/>
+      <hotspot description="Framery Silent Box&#xa;&#xa;Wenn rundherum Leben ist, du aber gerade Ruhe brauchst.&#xa;Die schallisolierte Silent Box von Framery ist unser Rückzugsort für Telefonate, Videocalls oder konzentriertes Arbeiten.&#xa;Tür zu, Ruhe an – und draußen darf der Space einfach weiterleben.&#xa;" id="Point07" pan="-129.57" skinid="ht_info" target="" tilt="4.48" title="" url=""/>
+      <hotspot description="Flexible Sitzlandschaft von WINI&#xa;&#xa;Pitch, Workshop oder einfach mal Perspektive wechseln.&#xa;Unsere Sitzlandschaft von WINI besteht aus flexibel kombinierbaren Tribünenmodulen. Damit wird aus dem offenen Space in kürzester Zeit eine kleine Arena für Workshops, Präsentationen oder einen spontanen Pitch.&#xa;Egal wo man sitzt – guter Platz und freie Sicht inklusive.&#xa;Und weil moderne Arbeitswelten auch nachhaltig gedacht werden müssen, setzt WINI auf langlebige, kreislauffähige Lösungen und einen verantwortungsvollen Umgang mit Ressourcen." id="Point08" pan="-72.64" skinid="ht_info" target="" tilt="-13.65" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="202.20" author="" capturedatetime="2026-09-09T11:20:30" comment="" copyright="" customnodeid="" datetime="09.09.26 11:20" description="" heading="0" hideinlist="0" info="" latitude="51.15730556" longitude="14.99130556" nodeid="node3" source="" tags="studio" title="Theke – Zugang zur Eventküche"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.64496" id="Point01" pan="29.82" skinid="ht_node" target="-93.9/-2.1/100.0" tilt="-22.2" title="Theke – Übergang zur Lounge" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="-64.7" skinid="ht_node" target="27.2/-4.0/100.0" tilt="-19.93" title="Kaffeemaschine und Partnerwand" url="{node4}"/>
+      <hotspot description="" id="Weg_5" pan="119.88" skinid="ht_node" target="5.3/0.0/100.0" tilt="-12.75" title="Eventküche" url="{node5}"/>
+      <hotspot description="" id="Point03" pan="-27.95" skinid="ht_node" target="158.8/-4.5/120.0" tilt="-15.95" title="Lounge und Theke" url="{node1}"/>
+      <hotspot description="Unsere Partner&#xa;&#xa;Ein guter Space lebt von guten Partnern.&#xa;Hier seht ihr eine Auswahl der Unternehmen und Organisationen, mit denen wir zusammenarbeiten. Manche bringen Know-how mit, andere Technik, Ausstattung oder spannende Projekte. Was sie verbindet: Gemeinsam machen wir Dinge möglich, die allein so nicht entstehen würden." id="Point04" pan="-112.15" skinid="ht_info" target="" tilt="16.87" title="" url=""/>
+      <hotspot description="Kaffeepause&#xa;&#xa;Manche guten Ideen brauchen erstmal einen Kaffee. &#xa;Deshalb gehört die Kaffeemaschine bei uns fast genauso zur Grundausstattung wie WLAN und Laptop. Kaffee holen, kurz abschalten, jemanden treffen – und nicht selten entsteht genau hier das nächste gute Gespräch." id="Point05" pan="-79.15" skinid="ht_info" target="" tilt="-0.65" title="" url=""/>
+      <hotspot description="Erfrischungen&#xa;&#xa;Kaffee ist nicht alles.&#xa;Wer zwischendurch etwas Kaltes braucht, wird hier fündig. Limo, Saft und verschiedene Erfrischungen stehen bereit.&#xa;Bedienen ausdrücklich erwünscht." id="Point06" pan="47.48" skinid="ht_info" target="" tilt="9.3" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="202.20" author="" capturedatetime="2026-09-09T11:17:44" comment="" copyright="" customnodeid="" datetime="09.09.26 11:17" description="" heading="0" hideinlist="0" info="" latitude="51.15730556" longitude="14.99130556" nodeid="node4" source="" tags="studio" title="Kaffeemaschine und Partnerwand"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-142.75" skinid="ht_node" target="121.4/-3.1/100.0" tilt="-24.21" title="Theke – Zugang zur Eventküche" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="99.96" skinid="ht_node" target="-156.6/-0.7/120.0" tilt="-21.58" title="Lounge und Theke" url="{node1}"/>
+      <hotspot description="Kaffeepause&#xa;&#xa;Manche guten Ideen brauchen erstmal einen Kaffee. &#xa;Deshalb gehört die Kaffeemaschine bei uns fast genauso zur Grundausstattung wie WLAN und Laptop. Kaffee holen, kurz abschalten, jemanden treffen – und nicht selten entsteht genau hier das nächste gute Gespräch." id="Info_coffee" pan="-33.73" skinid="ht_info" target="" tilt="1.45" title="Kaffeepause" url=""/>
+      <hotspot description="Unsere Partner&#xa;&#xa;Ein guter Space lebt von guten Partnern.&#xa;Hier seht ihr eine Auswahl der Unternehmen und Organisationen, mit denen wir zusammenarbeiten. Manche bringen Know-how mit, andere Technik, Ausstattung oder spannende Projekte. Was sie verbindet: Gemeinsam machen wir Dinge möglich, die allein so nicht entstehen würden." id="Point03" pan="-105.56" skinid="ht_info" target="" tilt="16.21" title="" url=""/>
+      <hotspot description="&#xa;Erfrischungen&#xa;&#xa;Kaffee ist nicht alles.&#xa;Wer zwischendurch etwas Kaltes braucht, wird hier fündig. Limo, Saft und verschiedene Erfrischungen stehen bereit.&#xa;Bedienen ausdrücklich erwünscht." id="Point04" pan="178.26" skinid="ht_info" target="" tilt="6.49" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Eventküche&lt;/strong>&lt;br>Hier wird gemeinsam gekocht, ausprobiert und Neues entwickelt – zum Beispiel bei unserem Format „Kochen mit KI“." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="rauminfo" title="Eventküche"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="82.8" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Die professionell ausgestattete Küche bietet Raum für gemeinsame Events und kreative Formate – zum Beispiel für unser besonderes Event „Kochen mit KI“." id="Info_kitchen" pan="8.58" skinid="ht_info" target="" tilt="-0.95" title="Unsere Eventküche" url=""/>
+      <hotspot description="" id="Weg_3" pan="165.99" skinid="ht_node" target="-50.6/-3.8/100.0" tilt="-13.18" title="Theke – Zugang zur Eventküche" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Lounge&lt;/strong>&lt;br>Bequeme Möbel von Interstuhl laden zu entspannten Gesprächen, kleinen Pausen und zum Arbeiten abseits des Schreibtischs ein." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="rauminfo" title="Lounge – Framery Silent Box"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="90" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Die schallisolierte Silent Box von Framery bietet einen ruhigen Rückzugsort für ungestörte Telefonate, Videokonferenzen und konzentriertes Arbeiten." id="Info_booth" pan="122.54" skinid="ht_info" target="" tilt="22.6" title="Framery Silent Box" url=""/>
+      <hotspot description="" id="Weg_14" pan="-57.31" skinid="ht_node" target="168.7/-8.2/100.0" tilt="-28.32" title="Lounge – Übersicht" url="{node14}"/>
+      <hotspot description="" id="Point01" pan="2.89" skinid="ht_node" target="70.0/-1.8/120.0" tilt="-16.38" title="Lounge und Theke" url="{node1}"/>
+      <hotspot description="Unsere Partner&#xa;&#xa;Ein guter Space lebt von guten Partnern.&#xa;Hier seht ihr eine Auswahl der Unternehmen und Organisationen, mit denen wir zusammenarbeiten. Manche bringen Know-how mit, andere Technik, Ausstattung oder spannende Projekte. Was sie verbindet: Gemeinsam machen wir Dinge möglich, die allein so nicht entstehen würden." id="Point02" pan="-19.55" skinid="ht_info" target="" tilt="4.81" title="" url=""/>
+      <hotspot description="Kaffeepause&#xa;&#xa;Manche guten Ideen brauchen erstmal einen Kaffee. &#xa;Deshalb gehört die Kaffeemaschine bei uns fast genauso zur Grundausstattung wie WLAN und Laptop. Kaffee holen, kurz abschalten, jemanden treffen – und nicht selten entsteht genau hier das nächste gute Gespräch." id="Point03" pan="-4.49" skinid="ht_info" target="" tilt="0.02" title="" url=""/>
+      <hotspot description="&#xa;Erfrischungen&#xa;&#xa;Kaffee ist nicht alles.&#xa;Wer zwischendurch etwas Kaltes braucht, wird hier fündig. Limo, Saft und verschiedene Erfrischungen stehen bereit.&#xa;Bedienen ausdrücklich erwünscht." id="Point04" pan="-47.21" skinid="ht_info" target="" tilt="5.38" title="" url=""/>
+      <hotspot description="Flexible Sitzlandschaft von WINI&#xa;&#xa;Pitch, Workshop oder einfach mal Perspektive wechseln.&#xa;Unsere Sitzlandschaft von WINI besteht aus flexibel kombinierbaren Tribünenmodulen. Damit wird aus dem offenen Space in kürzester Zeit eine kleine Arena für Workshops, Präsentationen oder einen spontanen Pitch.&#xa;Egal wo man sitzt – guter Platz und freie Sicht inklusive.&#xa;Und weil moderne Arbeitswelten auch nachhaltig gedacht werden müssen, setzt WINI auf langlebige, kreislauffähige Lösungen und einen verantwortungsvollen Umgang mit Ressourcen." id="Point05" pan="-86.67" skinid="ht_info" target="" tilt="-11.53" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Lounge&lt;/strong>&lt;br>Bequeme Möbel von Interstuhl laden zu entspannten Gesprächen, kleinen Pausen und zum Arbeiten abseits des Schreibtischs ein." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="rauminfo" title="Lounge – Übersicht"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="3.6" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Weg_13" pan="163.7" skinid="ht_node" target="23.1/-7.4/100.0" tilt="-24.13" title="Sitzlandschaft und Loungesessel" url="{node13}"/>
+      <hotspot description="" id="Weg_15" pan="2.75" skinid="ht_node" target="90.0/0.0/100.0" tilt="-26.91" title="Lounge – Framery Silent Box" url="{node15}"/>
+      <hotspot description="" id="Point01" pan="-129.94" skinid="ht_node" target="-129.9/0.0/100.0" tilt="-17.01" title="Theke – Zugang zur Eventküche" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="-125.92" skinid="ht_node" target="94.0/-2.8/100.0" tilt="-40.02" title="Theke – Übergang zur Lounge" url="{node2}"/>
+      <hotspot description="Unsere Partner&#xa;&#xa;Ein guter Space lebt von guten Partnern.&#xa;Hier seht ihr eine Auswahl der Unternehmen und Organisationen, mit denen wir zusammenarbeiten. Manche bringen Know-how mit, andere Technik, Ausstattung oder spannende Projekte. Was sie verbindet: Gemeinsam machen wir Dinge möglich, die allein so nicht entstehen würden." id="Point03" pan="-113.55" skinid="ht_info" target="" tilt="6.48" title="" url=""/>
+      <hotspot description="Kaffeepause&#xa;&#xa;Manche guten Ideen brauchen erstmal einen Kaffee. &#xa;Deshalb gehört die Kaffeemaschine bei uns fast genauso zur Grundausstattung wie WLAN und Laptop. Kaffee holen, kurz abschalten, jemanden treffen – und nicht selten entsteht genau hier das nächste gute Gespräch." id="Point04" pan="-95.6" skinid="ht_info" target="" tilt="-1.18" title="" url=""/>
+      <hotspot description="Framery Silent Box&#xa;&#xa;Wenn rundherum Leben ist, du aber gerade Ruhe brauchst.&#xa;Die schallisolierte Silent Box von Framery ist unser Rückzugsort für Telefonate, Videocalls oder konzentriertes Arbeiten.&#xa;Tür zu, Ruhe an – und draußen darf der Space einfach weiterleben.&#xa;" id="Point05" pan="6.43" skinid="ht_info" target="" tilt="6.8" title="" url=""/>
+      <hotspot description="Flexible Sitzlandschaft von WINI&#xa;&#xa;Pitch, Workshop oder einfach mal Perspektive wechseln.&#xa;Unsere Sitzlandschaft von WINI besteht aus flexibel kombinierbaren Tribünenmodulen. Damit wird aus dem offenen Space in kürzester Zeit eine kleine Arena für Workshops, Präsentationen oder einen spontanen Pitch.&#xa;Egal wo man sitzt – guter Platz und freie Sicht inklusive.&#xa;Und weil moderne Arbeitswelten auch nachhaltig gedacht werden müssen, setzt WINI auf langlebige, kreislauffähige Lösungen und einen verantwortungsvollen Umgang mit Ressourcen." id="Point06" pan="107.05" skinid="ht_info" target="" tilt="-27.48" title="" url=""/>
+      <hotspot description="Whiteboards von WINI&#xa;&#xa;Vorne Whiteboard. Hinten Pinnwand. Und ausgezeichnet sehen sie auch noch aus.&#xa;Die WINEA FLEX UP von WINI sind gemacht für Workshops und kreative Arbeit. Eine Seite ist magnetisch und beschreibbar, die andere pinnbar. Mobil und schnell genau dort, wo gerade Ideen entstehen.&#xa;Für die Verbindung aus Funktion und Gestaltung gab es den German Design Award 2025.&#xa;Und auch beim Material wurde weitergedacht: Die Trägerplatte besteht aus 100 % recycelbarem Polyestervlies. Design, Funktion und Nachhaltigkeit passen hier ziemlich gut zusammen." id="Point07" pan="131.99" skinid="ht_info" target="" tilt="1.02" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Große Werkstatt&lt;/strong>&lt;br>Raum für Workshops, Meetings und neue Ideen. Flexible Möbel machen Platz für das, was ihr gemeinsam vorhabt." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="rauminfo" title="Sitzlandschaft und Loungesessel"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="-79.2" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Loungesessel von Interstuhl&#xa;&#xa;Arbeiten muss nicht immer nach Schreibtisch aussehen.&#xa;Die Loungesessel unseres Partners Interstuhl gehören deshalb ganz selbstverständlich zum Space. Laptop auf, Kaffee dazu und los – oder einfach mal für zehn Minuten raus aus dem klassischen Arbeitsplatz" id="Info_chair" pan="-62" skinid="ht_info" target="" tilt="-12.63" title="Loungesessel von Interstuhl" url=""/>
+      <hotspot description="" id="Weg_14" pan="-141.07" skinid="ht_node" target="-8.6/-6.4/100.0" tilt="-17.11" title="Lounge – Übersicht" url="{node14}"/>
+      <hotspot description="" id="Weg_12" pan="-21.89" skinid="ht_node" target="-23.4/-1.2/100.0" tilt="-26.97" title="Arbeitsbereich – WINI-Tisch und Whiteboards" url="{node12}"/>
+      <hotspot description="" id="Point01" pan="30.82" skinid="ht_node" target="-178.9/-5.9/100.0" tilt="-13.1" title="Flur zur kleinen Werkstatt" url="{node11}"/>
+      <hotspot description="Framery Silent Box&#xa;&#xa;Wenn rundherum Leben ist, du aber gerade Ruhe brauchst.&#xa;Die schallisolierte Silent Box von Framery ist unser Rückzugsort für Telefonate, Videocalls oder konzentriertes Arbeiten.&#xa;Tür zu, Ruhe an – und draußen darf der Space einfach weiterleben.&#xa;" id="Point02" pan="-132.6" skinid="ht_info" target="" tilt="3.86" title="" url=""/>
+      <hotspot description="Höhenverstellbare Tische von WINI&#xa;&#xa;Sitzen. Stehen. Verschieben. Loslegen.&#xa;Unsere höhenverstellbaren Tische von WINI funktionieren mit Akku. Kein Kabel quer durch den Raum und keine Suche nach der nächsten Steckdose. Tisch dorthin, wo er gerade gebraucht wird, Höhe einstellen und loslegen.&#xa;So flexibel sollte ein moderner Arbeitsplatz sein.&#xa;WINI denkt dabei auch an morgen: Langlebigkeit, Reparierbarkeit und Recyclingfähigkeit gehören zum Produktkonzept – damit aus flexibel nicht irgendwann kurzlebig wird." id="Point03" pan="4.72" skinid="ht_info" target="" tilt="-4.68" title="" url=""/>
+      <hotspot description="Whiteboards von WINI&#xa;&#xa;Vorne Whiteboard. Hinten Pinnwand. Und ausgezeichnet sehen sie auch noch aus.&#xa;Die WINEA FLEX UP von WINI sind gemacht für Workshops und kreative Arbeit. Eine Seite ist magnetisch und beschreibbar, die andere pinnbar. Mobil und schnell genau dort, wo gerade Ideen entstehen.&#xa;Für die Verbindung aus Funktion und Gestaltung gab es den German Design Award 2025.&#xa;Und auch beim Material wurde weitergedacht: Die Trägerplatte besteht aus 100 % recycelbarem Polyestervlies. Design, Funktion und Nachhaltigkeit passen hier ziemlich gut zusammen." id="Point04" pan="-22.93" skinid="ht_info" target="" tilt="2.34" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Große Werkstatt&lt;/strong>&lt;br>Raum für Workshops, Meetings und neue Ideen. Flexible Möbel machen Platz für das, was ihr gemeinsam vorhabt." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="rauminfo" title="Arbeitsbereich – WINI-Tisch und Whiteboards"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="43.2" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Höhenverstellbare Tische von WINI&#xa;&#xa;Sitzen. Stehen. Verschieben. Loslegen.&#xa;Unsere höhenverstellbaren Tische von WINI funktionieren mit Akku. Kein Kabel quer durch den Raum und keine Suche nach der nächsten Steckdose. Tisch dorthin, wo er gerade gebraucht wird, Höhe einstellen und loslegen.&#xa;So flexibel sollte ein moderner Arbeitsplatz sein.&#xa;WINI denkt dabei auch an morgen: Langlebigkeit, Reparierbarkeit und Recyclingfähigkeit gehören zum Produktkonzept – damit aus flexibel nicht irgendwann kurzlebig wird." id="Info_desk" pan="76.26" skinid="ht_info" target="" tilt="-12.03" title="Höhenverstellbare Tische von WINI" url=""/>
+      <hotspot description="Whiteboards von WINI&#xa;&#xa;Vorne Whiteboard. Hinten Pinnwand. Und ausgezeichnet sehen sie auch noch aus.&#xa;Die WINEA FLEX UP von WINI sind gemacht für Workshops und kreative Arbeit. Eine Seite ist magnetisch und beschreibbar, die andere pinnbar. Mobil und schnell genau dort, wo gerade Ideen entstehen.&#xa;Für die Verbindung aus Funktion und Gestaltung gab es den German Design Award 2025.&#xa;Und auch beim Material wurde weitergedacht: Die Trägerplatte besteht aus 100 % recycelbarem Polyestervlies. Design, Funktion und Nachhaltigkeit passen hier ziemlich gut zusammen." id="Info_board" pan="-19.8" skinid="ht_info" target="" tilt="8.1" title="Whiteboards von WINI" url=""/>
+      <hotspot description="" id="Weg_13" pan="162.76" skinid="ht_node" target="142.8/-3.8/100.0" tilt="-27.4" title="Sitzlandschaft und Loungesessel" url="{node13}"/>
+      <hotspot description="Loungesessel von Interstuhl&#xa;&#xa;Arbeiten muss nicht immer nach Schreibtisch aussehen.&#xa;Die Loungesessel unseres Partners Interstuhl gehören deshalb ganz selbstverständlich zum Space. Laptop auf, Kaffee dazu und los – oder einfach mal für zehn Minuten raus aus dem klassischen Arbeitsplatz" id="Point01" pan="-134.81" skinid="ht_info" target="" tilt="-17.18" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="" title="Flur zur kleinen Werkstatt"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="46.8" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Weg_6" pan="177.73" skinid="ht_node" target="73.8/-4.1/100.0" tilt="-25.43" title="Kleine Werkstatt – Besprechungstisch" url="{node6}"/>
+      <hotspot description="" id="Point01" pan="-7.08" skinid="ht_node" target="-158.3/-3.3/100.0" tilt="-11.64" title="Sitzlandschaft und Loungesessel" url="{node13}"/>
+      <hotspot description="Höhenverstellbare Tische von WINI&#xa;&#xa;Sitzen. Stehen. Verschieben. Loslegen.&#xa;Unsere höhenverstellbaren Tische von WINI funktionieren mit Akku. Kein Kabel quer durch den Raum und keine Suche nach der nächsten Steckdose. Tisch dorthin, wo er gerade gebraucht wird, Höhe einstellen und loslegen.&#xa;So flexibel sollte ein moderner Arbeitsplatz sein.&#xa;WINI denkt dabei auch an morgen: Langlebigkeit, Reparierbarkeit und Recyclingfähigkeit gehören zum Produktkonzept – damit aus flexibel nicht irgendwann kurzlebig wird." id="Point02" pan="15.64" skinid="ht_info" target="" tilt="-6.22" title="" url=""/>
+      <hotspot description="Whiteboards von WINI&#xa;&#xa;Vorne Whiteboard. Hinten Pinnwand. Und ausgezeichnet sehen sie auch noch aus.&#xa;Die WINEA FLEX UP von WINI sind gemacht für Workshops und kreative Arbeit. Eine Seite ist magnetisch und beschreibbar, die andere pinnbar. Mobil und schnell genau dort, wo gerade Ideen entstehen.&#xa;Für die Verbindung aus Funktion und Gestaltung gab es den German Design Award 2025.&#xa;Und auch beim Material wurde weitergedacht: Die Trägerplatte besteht aus 100 % recycelbarem Polyestervlies. Design, Funktion und Nachhaltigkeit passen hier ziemlich gut zusammen." id="Point03" pan="33.17" skinid="ht_info" target="" tilt="1.9" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Kleine Werkstatt&lt;/strong>&lt;br>Unser ruhiger Rückzugsort für konzentriertes Arbeiten, gemeinsame Gedanken und Gespräche im kleinen Kreis." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="rauminfo" title="Kleine Werkstatt – Besprechungstisch"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="97.2" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Das kleine Büro bietet einen ruhigen Arbeitsplatz für konzentriertes Arbeiten, kreative Ideen und kleinere Besprechungen." id="Info_workshop" pan="92.93" skinid="ht_info" target="" tilt="-17.39" title="Die kleine Werkstatt" url=""/>
+      <hotspot description="" id="Weg_11" pan="-101.95" skinid="ht_node" target="46.8/0/100" tilt="-21.53" title="Flur zur kleinen Werkstatt" url="{node11}"/>
+      <hotspot description="" id="Weg_7" pan="57.6" skinid="ht_node" target="71.8/3.8/100.0" tilt="-22.5" title="Kleine Werkstatt – digitales Whiteboard" url="{node7}"/>
+      <hotspot description="Digitales Whiteboard&#xa;&#xa;Wenn die Wand plötzlich mitarbeitet.&#xa;Unser digitales Whiteboard ist Präsentationsfläche, Videokonferenzsystem und gemeinsame Arbeitsfläche in einem. Inhalte zeigen, direkt bearbeiten, Ideen festhalten oder Menschen von außerhalb dazuholen.&#xa;Analoges Zusammenarbeiten trifft digitale Möglichkeiten." id="Point01" pan="45.08" skinid="ht_info" target="" tilt="6.45" title="" url=""/>
+    </hotspots>
+    <media>
+      <webelement clickmode="0" code="&lt;iframe&#xa;  src=&quot;https://go-be-goerlitz.de/&quot;&#xa;  width=&quot;100%&quot;&#xa;  height=&quot;100%&quot;&#xa;  style=&quot;border:0;&quot;&#xa;  scrolling=&quot;yes&quot;>&#xa;&lt;/iframe>" fov="17.395" handcursor="0" height="1000" hidepinned="0" id="Element01" pan="55.528" permeable="0" popbackmode="0" popoutscaling="100" rotx="1.878" roty="23.529" rotz="-0.613" stretch="0.680" tilt="0.265" width="1000"/>
+    </media>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Kleine Werkstatt&lt;/strong>&lt;br>Unser ruhiger Rückzugsort für konzentriertes Arbeiten, gemeinsame Gedanken und Gespräche im kleinen Kreis." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="rauminfo" title="Kleine Werkstatt – digitales Whiteboard"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="32.4" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Digitales Whiteboard&#xa;&#xa;Wenn die Wand plötzlich mitarbeitet.&#xa;Unser digitales Whiteboard ist Präsentationsfläche, Videokonferenzsystem und gemeinsame Arbeitsfläche in einem. Inhalte zeigen, direkt bearbeiten, Ideen festhalten oder Menschen von außerhalb dazuholen.&#xa;Analoges Zusammenarbeiten trifft digitale Möglichkeiten." id="Info_display" pan="-10.5" skinid="ht_info" target="" tilt="17.35" title="Digitales Whiteboard" url=""/>
+      <hotspot description="" id="Weg_6" pan="-90.48" skinid="ht_node" target="-106.3/-1.3/100.0" tilt="-23.82" title="Kleine Werkstatt – Besprechungstisch" url="{node6}"/>
+      <hotspot description="" id="Weg_8" pan="-177.35" skinid="ht_node" target="-5.1/-3.2/100.0" tilt="-23.98" title="Kleine Werkstatt – Terrassentür" url="{node8}"/>
+      <hotspot description="Die kleine Werkstatt&#xa;&#xa;Klein, ruhig und manchmal genau das Richtige.&#xa;Unsere kleine Werkstatt ist der Rückzugsort für alles, was etwas mehr Konzentration braucht. Allein arbeiten, zu zweit etwas durchdenken oder einfach mal die Tür hinter sich schließen.&#xa;Denn auch in einem lebendigen Space braucht es manchmal Ruhe." id="Point01" pan="-129.11" skinid="ht_info" target="" tilt="-23.38" title="" url=""/>
+    </hotspots>
+    <media>
+      <webelement clickmode="0" code="&lt;iframe&#xa;  src=&quot;https://go-be-goerlitz.de/&quot;&#xa;  width=&quot;100%&quot;&#xa;  height=&quot;100%&quot;&#xa;  style=&quot;border:0;&quot;&#xa;  scrolling=&quot;yes&quot;>&#xa;&lt;/iframe>" fov="73.640" handcursor="1" height="1000" hidepinned="0" id="Element01" pan="26.310" permeable="0" popbackmode="0" popoutscaling="100" rotx="-0.020" roty="-11.550" rotz="0.340" stretch="0.560" tilt="0.350" width="1000"/>
+    </media>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Kleine Werkstatt&lt;/strong>&lt;br>Unser ruhiger Rückzugsort für konzentriertes Arbeiten, gemeinsame Gedanken und Gespräche im kleinen Kreis." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="rauminfo" title="Kleine Werkstatt – Terrassentür"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="25.2" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Weg_7" pan="-173.07" skinid="ht_node" target="32.4/0.0/100.0" tilt="-26.98" title="Kleine Werkstatt – digitales Whiteboard" url="{node7}"/>
+      <hotspot description="" id="Weg_9" pan="25.2" skinid="ht_node" target="-94.3/-2.2/100.0" tilt="-22.5" title="Außenbereich – Eingang" url="{node9}"/>
+      <hotspot description="Digitales Whiteboard&#xa;&#xa;Wenn die Wand plötzlich mitarbeitet.&#xa;Unser digitales Whiteboard ist Präsentationsfläche, Videokonferenzsystem und gemeinsame Arbeitsfläche in einem. Inhalte zeigen, direkt bearbeiten, Ideen festhalten oder Menschen von außerhalb dazuholen.&#xa;Analoges Zusammenarbeiten trifft digitale Möglichkeiten." id="Point01" pan="174.6" skinid="ht_info" target="" tilt="4.36" title="" url=""/>
+      <hotspot description="Die kleine Werkstatt&#xa;&#xa;Klein, ruhig und manchmal genau das Richtige.&#xa;Unsere kleine Werkstatt ist der Rückzugsort für alles, was etwas mehr Konzentration braucht. Allein arbeiten, zu zweit etwas durchdenken oder einfach mal die Tür hinter sich schließen.&#xa;Denn auch in einem lebendigen Space braucht es manchmal Ruhe." id="Point02" pan="151.21" skinid="ht_info" target="" tilt="-19.81" title="" url=""/>
+    </hotspots>
+    <media>
+      <webelement clickmode="0" code="&lt;iframe&#xa;  src=&quot;https://go-be-goerlitz.de/&quot;&#xa;  width=&quot;100%&quot;&#xa;  height=&quot;100%&quot;&#xa;  style=&quot;border:0;&quot;&#xa;  scrolling=&quot;yes&quot;>&#xa;&lt;/iframe>" fov="21.295" handcursor="0" height="1000" hidepinned="0" id="Element01" pan="-176.154" permeable="0" popbackmode="0" popoutscaling="100" rotx="-2.218" roty="-35.945" rotz="-1.946" stretch="0.516" tilt="-0.309" width="1000"/>
+    </media>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Außenbereich&lt;/strong>&lt;br>Frische Luft, entspannte Gespräche und gemeinsame Pausen. Im Sommer wird unser Außenbereich auch zur Grillstation." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="rauminfo" title="Außenbereich – Eingang"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="82.8" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Weg_8" pan="77.69" skinid="ht_node" target="172.4/-3.2/100.0" tilt="-11.38" title="Kleine Werkstatt – Terrassentür" url="{node8}"/>
+      <hotspot description="" id="Weg_10" pan="135.49" skinid="ht_node" target="136.5/-2.0/100.0" tilt="-14.8" title="Außenbereich – Sitzgruppe" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="" comment="" copyright="" customnodeid="" datetime="" description="&lt;strong>Außenbereich&lt;/strong>&lt;br>Frische Luft, entspannte Gespräche und gemeinsame Pausen. Im Sommer wird unser Außenbereich auch zur Grillstation." heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="rauminfo" title="Außenbereich – Sitzgruppe"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="14.4" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Der gemütliche Außenbereich lädt zum entspannten Zusammensitzen, Austauschen und gemeinsamen Grillen ein." id="Info_outdoor" pan="16.2" skinid="ht_info" target="" tilt="-25.2" title="Unser Außenbereich" url=""/>
+      <hotspot description="" id="Weg_9" pan="-68.69" skinid="ht_node" target="-58.7/1.3/100.0" tilt="-12.19" title="Außenbereich – Eingang" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="360°-Rundgang mit Lounge, Arbeitsbereich, kleiner Werkstatt, Außenbereich und Eventküche." tags="" title="GoBe – Office-Rundgang" uuid="{3ae77cb1-a82d-4b03-ad49-f069ace237cf}"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="7" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <vr defaulthsscale="100" handtracking="0" skinbuttonposition="0" toggleskinbutton="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
